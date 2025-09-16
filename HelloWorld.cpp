@@ -6,6 +6,9 @@
 int main()
 {
     std::cout << "Hello World!\n";
+
+    이건 에러 나라고 한거다.
+
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
