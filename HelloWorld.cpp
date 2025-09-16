@@ -7,7 +7,7 @@ int main()
 {
     std::cout << "Hello World!\n";
 
-    이건 에러 나라고 한거다.
+    // Commit
 
 }
 
